@@ -1,11 +1,9 @@
 ---
 name: market-creation-analysis
-description: Guide product teams through creating products users don't yet know they
-  want by observing behavior rather than surveying stated preferences, using Akio
-  Morita's methodology.
+description: Guide product teams through creating products users don't yet know they want by observing behavior rather than surveying stated preferences, using Akio Morita's methodology.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - market-creation-analysis
